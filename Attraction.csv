@@ -1,4 +1,4 @@
-Station_ID,Station,Tourist Attraction,Count_Reviews,Rating,Penalty
+Station_ID,Station,Tourist Attraction,Count_Reviews,Rating,Last_Mile_Difficulty
 KJ10,KLCC ,Petronas Twin Towers,100519,4.7,1
 KJ10,KLCC ,Aquaria KLCC,38627,4.3,1
 KJ10,KLCC ,KLCC Park,61464,4.6,1
